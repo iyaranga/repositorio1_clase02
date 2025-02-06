@@ -26,5 +26,6 @@ public class RegistroVenta {
        System.out.println("Sueldo mensual:"+sm);
        System.out.println("Comisión de ventas:"+comision);
        System.out.println("Sueldo Neto:"+sn); 
+       //falta mostrar resultados
    }  
 }
